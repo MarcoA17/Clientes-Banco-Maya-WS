@@ -1,0 +1,5 @@
+com\bancomaya\clientes\HelloWorldImpl.class
+com\bancomaya\clientes\serviceimpl\TarjetaServiceImpl.class
+com\bancomaya\clientes\HelloWorld.class
+com\bancomaya\clientes\model\Tarjeta.class
+com\bancomaya\clientes\service\TarjetaService.class
